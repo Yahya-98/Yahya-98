@@ -3,7 +3,7 @@ Hi 👋 My name is Yahya Demir
 
 * 🌍  I'm based in Turkey/istanbul
 * ✉️  You can contact me at [yahyademir822@gmail.com](mailto:yahyademir822@gmail.com)
-* 🧠  I'm learning Machine Learning
+* 🧠  I'm learning Java 
 
 ### Skills
 
